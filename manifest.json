@@ -1,0 +1,15 @@
+{
+  "name": "Advanced Development Assistant",
+  "short_name": "A.D.A.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#280137",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
